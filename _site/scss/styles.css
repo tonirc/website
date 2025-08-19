@@ -1,0 +1,24 @@
+.card-file-modified:before {
+    content: "Updated: ";
+}
+
+/* Remove external link indicators everywhere */
+a.external::after {
+  content: none !important;
+}
+
+.icon-bluesky {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+  background: no-repeat center/contain url("https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg");
+}
+
+.icon-orcid {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+  background: no-repeat center/contain url("https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg");
+}
