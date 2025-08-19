@@ -4,9 +4,9 @@ comments: false
 ---
 
 ::: light-mode
-![](images/landing_light.png)
+![](images/construccio.jpeg)
 :::
 
 ::: dark-mode
-![](images/landing_dark.png)
+![](images/construccio.jpeg)
 :::
