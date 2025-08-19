@@ -1,0 +1,15 @@
+{
+  "hash": "739de4228398871f6ee57fec600eb6a7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Decentralization and Regional Cabinet Size in Spain (1979-2015)\"\nlang: ca\neditor_options: \n  chunk_output_type: console\nexecute:\n  echo: false\ncomments: false\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n![](map.png){fig-alt=\"mapa\"}\n\nThis dataset, compiled by Pau Vall-Prat, is based on region-cabinet observations for all regions (Comunidades Autónomas) in Spain between 1980s to 2015. The main variable of interest is the number of cabinet regional ministers and it is combined with other political, economic, and social indicators. The dataset was originally compiled for his BA Thesis (which I supervised). You can find the dataset here, and the replication materials here.\n\nThe complete dataset of this paper can be found in the Harvard Dataverse.\n\nVall-Prat, Pau; **Rodon, Toni** (2017) Decentralization and Regional Cabinet Size: the Spanish Case (1979-2015). *West European Politics*, 40(4): 717-740. `<a href=\"https://doi.org/10.1080/01402382.2016.1275422\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"ai ai-doi\"></i> </a>`{=html} `<a href=\"https://www.dropbox.com/scl/fi/1697w3z6ccgr8103uogi7/WEP_regional_cabinet_size_replication_materials.zip?rlkey=jx3mumd0o62gxvktm73rr07op&amp;e=1&amp;dl=0\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"ai ai-archive\"></i> </a>`{=html} `<a class=\"btn\" data-bs-toggle=\"collapse\" href=\"#collapse_1755600923_9698\" role=\"button\" aria-expanded=\"false\" aria-controls=\"collapse_1755600923_9698\" style=\"color:#333; text-decoration:none; padding:4px 8px; border:1px solid #333; border-radius:4px; display:inline-block;\">Abstract</a>\n      <div class=\"collapse mt-1\" id=\"collapse_1755600923_9698\">\n        <div style=\"padding:0.5rem; font-size:0.95rem; white-space: normal; text-align: justify; color:#555;\">This article explores under what conditions regional governments tend to have larger or smaller cabinets. The main contention is that cross-regional variation in cabinet size is partly explained by the dynamics set up by the multilevel system of government, mainly territorial decentralisation, multilevel government (in)congruence or the existence of nationally distinct regions. The hypotheses are tested with a new and original dataset built upon the Spanish case (1979–2015). Findings show that regions with more welfare state policies, especially when the region’s economic capacity is high, and nationally distinct regions tend to have bigger executives. In contrast, decentralisation in the form of basic state functions and government incongruence do not have a significant effect. Results have important implications for our understanding of sub-national territorial institutions and their interaction with decentralisation dynamics.</div>\n      </div>`{=html}\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

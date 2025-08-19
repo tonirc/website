@@ -1,0 +1,13 @@
+---
+page-layout: custom
+lang: ca
+comments: false
+---
+
+::: light-mode
+![](images/landing_light.png)
+:::
+
+::: dark-mode
+![](images/landing_dark.png)
+:::

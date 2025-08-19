@@ -1,0 +1,55 @@
+---
+title: "Teaching/Supervision"
+lang: en
+editor_options: 
+  chunk_output_type: console
+execute:
+  echo: false
+comments: false
+---
+
+## Teaching
+
+Over the last years I have been teaching a variety of courses in the following areas:
+
+-   Political Behavior and Public Opinion
+-   Political Participation
+-   Political Methodology
+-   Political Geography
+-   Introduction to R
+-   Mapping at the University of Barcelona (*Analista de dades per a l'anàlisi política i la gestió pública*). Among other things, we learn how to make interactive maps (see an example <a href="mapa_repressio.html" target="_blank">here</a>)
+
+## PhD supervision
+
+I am always delighted to supervise PhD students. Guiding them through their doctoral journey—helping refine questions, develop rigorous methodologies, and communicate findings—is both inspiring and a learning experience for me. I value curiosity, independence, and creativity, and I strive to provide a supportive environment where students can grow as scholars and contribute meaningfully to political science.
+
+Meet them 👇
+
+-   Joaquín Rozas-Bugueño <a href="https://sites.google.com/view/joaquin-rozas-bugueno" target="_blank" rel="noopener"> <img src="../../images/webpage.jpg" alt="Rozas-Bugueño Website" style="height:20px; vertical-align:middle;"/></a> His doctoral dissertation focused on how social movements influence public opinion and political behavior, especially following major events like the 2019 protests in Chile.
+
+-   Irene Rodríguez <a href="https://irenerodriguezlopez.github.io/" target="_blank" rel="noopener"> <img src="../../images/webpage.jpg" alt="Irene Website" style="height:20px; vertical-align:middle;"/></a> Her doctoral thesis focuses on contemporary challenges to democracy, including studies of policy effects following the COVID-19 pandemic, as well as radical right parties and the surge of social network use by political parties. She is part of the [COVIDEU project](../projects/covideu/index.qmd).
+
+-   Emanuele Murgolo <a href="https://www.upf.edu/web/demosoc/members/-/asset_publisher/JRxS2cKgUsHo/content/murgolo-emanuele/maximized" target="_blank" rel="noopener"> <img src="../../images/webpage.jpg" alt="Emanuele Website" style="height:20px; vertical-align:middle;"/></a> His doctoral dissertation analyzes whether the geography of political inequalities between Black and White communities in the US determines the socioeconomic gap between them.
+
+-   Elena Romanin <a href="https://elenaromanin.github.io/index.html" target="_blank" rel="noopener"> <img src="../../images/webpage.jpg" alt="Elena Website" style="height:20px; vertical-align:middle;"/></a> She explores the determinants of people's support for, or rejection of, climate change policies and related behaviors, primarily using survey data and experiments. She is member of the [Attclimate project](../projects/attclimate/index.qmd).
+
+-   Sofija Riegger. Her thesis examines how exposure to violence shapes electoral behavior in post-conflict settings. It investigates whether communities reject parties associated with perpetrators and how the intensity and timing of conflict influence voting patterns. She is part of the [VEARLYDEM project](../projects/vearlydem/index.qmd).
+
+Completed PhD 🎓
+
+-   Nikandros Ioannidis. He defended in November 2024 his dissertation *Worlds apart: The impact of (in)congruence on electoral behaviour: When voters and parties do not align* \[[Access](https://repositori.upf.edu/items/6c436f2b-0262-4138-957e-b169ec5df7ce)\].
+
+## Tutorials
+
+I have over the years created some R tutorials that I hope will be useful for BA students. 
+
+- <a href="ols.html" target="_blank">Multivariate regression</a>
+- <a href="abstention.html" target="_blank">The analysis of abstention</a>
+- <a href="howmap.html" target="_blank">How to make a map</a>
+- <a href="turnout14f.html" target="_blank">Turnout in the 14 Februrary 2021 Catalan election</a>
+- <a href="downs.html" target="_blank">Downsian or Spatial models</a>
+- <a href="christmas.html" target="_blank">How to make a Christmas postcard</a>
+
+
+
+

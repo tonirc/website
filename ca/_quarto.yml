@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: ../_site/ca   # <-- put Catalan build inside root _site/ca
+
+execute:
+  freeze: auto
+
+website:
+  title: "Toni Rodon"
+  favicon: ../images/favicon.png
+  site-url: https://www.tonirodon.cat
+  description: "ba baasdf a <i class='fa-regular fa-heart'></i>"
+  twitter-card: true
+  open-graph: true
+
+  navbar:
+    logo: ../images/logo-light.png
+    logo-alt: "Icona de boxplot"
+    right:
+      - text: Publicacions
+        href: publicacions/index.qmd
+      - text: Projectes
+        href: projectes/index.qmd
+      - text: Sobre
+        href: about/index.qmd
+      - text: Bases de dades
+        href: dades/index.qmd
+      - text: Docència/Supervisió
+        href: gent/index.qmd
+      - text: Idioma
+        menu:
+          - text: English
+            href: ../
+          - text: Català
+            href: ./
+
+format:
+  html:
+    theme:
+      light: [flatly, ../scss/light.scss]
+      dark: [darkly, ../scss/dark.scss]
+    css: 
+      - ../scss/styles.css
+      - ../scss/academicons.min.css
+    code-link: true
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+    comments:
+      giscus:
+        repo: tonirc/website
+        category: "Comments"
+        mapping: "pathname"
+        reactions-enabled: true
+        loading: lazy
+        input-position: "bottom"
+        theme:
+          light: light_high_contrast
+          dark: dark_dimmed
+        language: ca
+
+editor: visual
+filters:
+  - quarto-version.lua

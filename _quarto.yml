@@ -1,0 +1,78 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "Toni Rodon"
+  favicon: images/favicon.png
+  site-url: https://www.tonirodon.cat
+  description: "A data science and machine learning blog with the tidyverse at its <i class='fa-regular fa-heart'></i>"
+  twitter-card: true
+  open-graph: true
+
+  navbar:
+    logo: images/logo-light.png
+    logo-alt: "A box and whisker plot icon"
+    title: false
+    right:
+      - text: Publications
+        href: publications/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: About
+        href: about/index.qmd
+      - text: Datasets
+        href: datasets/index.qmd
+      - text: Teaching/Supervision
+        href: people/index.qmd
+      - text: Language
+        menu:
+          - text: English
+            href: index.qmd
+          - text: Català
+            href: ca/
+
+format:
+  html:
+    theme:
+      light: [flatly, scss/light.scss]
+      dark: [darkly, scss/dark.scss]
+    css:
+      - scss/styles.css
+      - scss/academicons.min.css
+    code-link: true
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+    comments:
+      giscus:
+        repo: tonirc/website
+        category: "Comments"
+        mapping: "pathname"
+        reactions-enabled: true
+        loading: lazy
+        input-position: "bottom"
+        theme:
+          light: light_high_contrast
+          dark: dark_dimmed
+        language: en
+
+editor: visual
+filters:
+  - quarto-version.lua
+
+# BabelQuarto config for bilingual site
+babelquarto:
+  languagecodes:
+    - name: en
+      text: "English"
+    - name: ca
+      text: "Català"
+  mainlanguage: "en"
+  languages: ["ca"]
+
+

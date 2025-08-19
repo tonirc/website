@@ -1,0 +1,21 @@
+---
+title: "Research projects"
+lang: en
+page-layout: full
+title-block-banner: true
+comments: false
+
+listing:
+  contents: .
+  fields: [image, date, title, reading-time, description]
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+---

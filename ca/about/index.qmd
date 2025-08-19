@@ -1,0 +1,41 @@
+---
+title: "Toni Rodon"
+lang: ca
+image: profile.jpg
+image-alt: "Portrait photo"
+about:
+  template: trestles
+  links:
+    - icon: github
+      href: https://github.com/tonirc
+    - text: "<span class='icon-orcid'></span>"
+      href: https://orcid.org/0000-0002-0546-4475
+    - icon: linkedin
+      href: https://www.linkedin.com/in/toni-rodon-6a7299375/
+    - icon: twitter
+      href: https://x.com/tonirodon
+    - text: "<span class='icon-bluesky'></span>"
+      href: https://bsky.app/profile/tonirodon.bsky.social
+      icon: bluesky
+    - icon: envelope
+      href: mailto:toni.rodon@upf.edu
+      rel: me
+comments: false
+title-block-banner: true
+---
+
+<div>
+
+Doctor Europeu per la Universitat Pompeu Fabra. Actualment soc professor agregat a la Universitat Pompeu Fabra ([UPF](https://www.upf.edu/)) i *Research Fellow* a la London School of Economics and Political Science ([LSE](https://www.lse.ac.uk/government)).
+
+Soc també el Delegat de Transferència de Coneixement en Ciències Socials i Humanitats
+
+Prèviament, vaig ser investigador postdoctoral al Department of Government de la London School of Economics and Political Science (LSE) i al Spatial Social Science Lab de la Universitat de Stanford (2014-2016).
+
+Vaig fer la meva llicenciatura en Ciències Polítiques i de l’Administració i un Màster en Ciències Polítiques i Socials a la UPF. També he estat estudiant visitant a Nuffield College (University of Oxford), a l'Institute for Social Change (University of Manchester) i a la Fundació Juan March (Center for Advanced Study in the Social Sciences).
+
+Els meus interessos de recerca inclouen la participació electoral, la geografia política, la política comparada i l'economia política històrica.
+
+[<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=3pFTrJ4AAAAJ&hl=ca){.btn .btn-outline-primary target="_blank" rel="noopener"}
+
+</div>
