@@ -7,7 +7,7 @@ execute:
 website:
   title: "Toni Rodon"
   favicon: images/favicon.png
-  site-url: https://www.tonirodon.cat
+  site-url: https://tonirc.github.io/website/
   description: "A data science and machine learning blog with the tidyverse at its <i class='fa-regular fa-heart'></i>"
   twitter-card: true
   open-graph: true
