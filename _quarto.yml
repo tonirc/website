@@ -17,12 +17,12 @@ website:
     logo-alt: "A box and whisker plot icon"
     title: false
     right:
+      - text: About
+        href: about/index.qmd
       - text: Publications
         href: publications/index.qmd
       - text: Projects
         href: projects/index.qmd
-      - text: About
-        href: about/index.qmd
       - text: Datasets
         href: datasets/index.qmd
       - text: Teaching/Supervision

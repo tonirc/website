@@ -15,7 +15,7 @@ website:
 
   navbar:
     logo: ../images/logo-light.png
-    logo-alt: "Icona de boxplot"
+    logo-alt: "Icona"
     right:
       - text: Publicacions
         href: publicacions/index.qmd
