@@ -10,14 +10,18 @@
     ]
   },
   {
+    "listing": "/ca/dades/index.html",
+    "items": []
+  },
+  {
     "listing": "/ca/projectes/index.html",
     "items": [
-      "/ca/projectes/apropat/index.html",
       "/ca/projectes/conref/index.html",
       "/ca/projectes/caixa/index.html",
       "/ca/projectes/covideu/index.html",
       "/ca/projectes/vearlydem/index.html",
       "/ca/projectes/attclimate/index.html",
+      "/ca/projectes/apropat/index.html",
       "/ca/projectes/polgeo/index.html"
     ]
   },
