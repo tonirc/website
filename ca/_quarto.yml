@@ -30,9 +30,9 @@ website:
       - text: Idioma
         menu:
           - text: English
-            href: ../
+            href: https://tonirc.github.io/website/
           - text: Català
-            href: ./
+            href: https://tonirc.github.io/website/ca/
 
 format:
   html:

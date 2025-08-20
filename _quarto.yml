@@ -6,8 +6,9 @@ execute:
 
 website:
   title: "Toni Rodon"
+  site-url: "https://www.tonirodon.cat"
   favicon: images/favicon.png
-  site-url: https://tonirc.github.io/website/
+  #site-url: https://tonirc.github.io/website/
   description: "A data science and machine learning blog with the tidyverse at its <i class='fa-regular fa-heart'></i>"
   twitter-card: true
   open-graph: true
@@ -30,9 +31,9 @@ website:
       - text: Language
         menu:
           - text: English
-            href: index.qmd
+            href: https://tonirc.github.io/website/
           - text: Català
-            href: ca/
+            href: https://tonirc.github.io/website/ca/
 
 format:
   html:
