@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/dades/index.html",
+    "items": [
+      "/dades/conref/index.html",
+      "/dades/second_republic/index.html",
+      "/dades/female_voters/index.html",
+      "/dades/cabinet_size/index.html",
+      "/dades/attclimate/index.html"
+    ]
+  },
+  {
+    "listing": "/projectes/index.html",
+    "items": [
+      "/projectes/conref/index.html",
+      "/projectes/caixa/index.html",
+      "/projectes/covideu/index.html",
+      "/projectes/vearlydem/index.html",
+      "/projectes/attclimate/index.html",
+      "/projectes/apropat/index.html",
+      "/projectes/polgeo/index.html"
+    ]
+  }
+]
